@@ -1,0 +1,11 @@
+.nav-class{
+  font-size: 60px;
+  background-color: #239185;
+  color: red;
+  align-content: center;
+  text-align: center;
+  &:hover{
+    background:darken(#239185, 20%);
+    color: red;
+  }
+}
